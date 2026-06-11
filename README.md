@@ -1,2 +1,2 @@
 # Projekt---Podatkovna-povezanost-i-digitalna-infrastruktura
-Izrada aplikacije vremenske prognoze
+Izrada aplikacije za pracenje vijesti.
